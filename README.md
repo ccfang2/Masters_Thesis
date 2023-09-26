@@ -5,7 +5,7 @@
 
 | Folder | File | Note |
 | :--- | :----- | :----------- |
-| Thesis | [LaTeX](https://raw.githubusercontent.com/ccfang2/Masters_Thesis/main/Thesis), [PDF](https://raw.githubusercontent.com/ccfang2/Masters_Thesis/main/Thesis/Masters_Thesis.pdf) | Masters Thesis, Date 25.09.2023 |
+| Thesis | [LaTeX](https://github.com/ccfang2/Masters_Thesis/tree/main/Thesis/LaTeX), [PDF](https://raw.githubusercontent.com/ccfang2/Masters_Thesis/main/Thesis/Masters_Thesis.pdf) | Masters Thesis, Date 25.09.2023 |
 | Simulation | `Simulation.R`, `dimada.sim.R` | R Files to Replicate Simulation |
 | Simulation | `Data/Part1` | Simulation Results of Section 6.2 in Thesis |
 | Simulation | `Data/Part2` | Simulation Results of Section 6.3 in Thesis |
@@ -15,7 +15,7 @@
 | Application | `data/MSEs.RData` | Application Results of Section 7.3 in Thesis|
 
 ## R package
-To implement our dimension adaptive estimation in your own studies, you may find it helpful to use our R package [dimada](https://github.com/ccfang2/dimada).
+To implement our dimension adaptive estimation in your own studies, you may find it helpful to use our R package [dimada](https://github.com/ccfang2/dimada). Practical Suggestions of using our estimation method can be found in Section 7.4 of this thesis.
 
 ## Contact
 Chencheng Fang, Email: [ccfang[at]uni-bonn.de](mailto:ccfang@uni-bonn.de),
