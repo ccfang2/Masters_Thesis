@@ -5,7 +5,8 @@
 
 | Folder | File | Note |
 | :--- | :----- | :----------- |
-| Thesis | [LaTeX](https://github.com/ccfang2/Masters_Thesis/tree/main/Thesis/LaTeX), [PDF](https://raw.githubusercontent.com/ccfang2/Masters_Thesis/main/Thesis/Masters_Thesis.pdf) | Masters Thesis, Date 25.09.2023 |
+| Thesis | [LaTeX](https://github.com/ccfang2/Masters_Thesis/tree/main/Thesis/LaTeX), [PDF](https://raw.githubusercontent.com/ccfang2/Masters_Thesis/main/Thesis/Master_Thesis.pdf) | Masters Thesis, Date 25.09.2023 |
+| Presentation | [PDF](https://raw.githubusercontent.com/ccfang2/Masters_Thesis/main/Thesis/Presentation.pdf) | Brown Bag Seminar, Date 15.12.2023 |
 | Simulation | `Simulation.R`, `dimada.sim.R` | R Files to Replicate Simulation |
 | Simulation | `Data/Part1` | Simulation Results of Section 6.2 in Thesis |
 | Simulation | `Data/Part2` | Simulation Results of Section 6.3 in Thesis |
